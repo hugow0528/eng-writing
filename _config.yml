@@ -1,0 +1,6 @@
+# 網域設定（話俾爬蟲聽你個 Site 叫咩名）
+url: "https://hugow.dev"
+
+# 啟用 Jekyll 原生自帶嘅 Sitemap 插件
+plugins:
+  - jekyll-sitemap
